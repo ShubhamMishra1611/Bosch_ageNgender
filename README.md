@@ -11,6 +11,11 @@ This is the initiation of Bosch Age and Gender Detection
 
 4. Save the video as video.mp4 and run main.py.
 
-5.If due to high memory usage , main.py gets killed,You can test the working on a single image .For that save the image as 'image.jpg' in the project directory and run the age_and_gender.py file.
+5.If due to high memory usage , main.py gets killed, you can test the working on a single image .For that save the image as 'image.jpg' in the project directory and run the age_and_gender.py file.
 
 
+**References** 
+
+1. https://github.com/Saafke/EDSR_Tensorflow
+
+2. https://github.com/misbah4064/age_and_gender_detection
