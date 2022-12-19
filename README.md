@@ -5,7 +5,7 @@ This is the initiation of Bosch Age and Gender Detection
 
 1.Download the EDSR_x4.pb model from  [link](https://github.com/Saafke/EDSR_Tensorflow/tree/master/models) and place it in the directory /models.(Don't rename it)
 
-2. Download the weights from the [link] (https://drive.google.com/file/d/1_aDScOvBeBLCn_iv0oxSO8X1ySQpSbIS/view)
+2. Download the weights from the [link](https://drive.google.com/file/d/1_aDScOvBeBLCn_iv0oxSO8X1ySQpSbIS/view)
 
 3.Unzip the file (` unzip modelNweights.zip`)
 
